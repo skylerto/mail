@@ -1,0 +1,16 @@
+{
+  "name": "mail",
+  "version": "0.0.1",
+  "description": "Send emails with attachments through CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skyler Layne <skylerclayne@gmail.com> (http://www.skylerlayne.me)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "2.9.0",
+    "nodemailer": "1.10.0",
+    "prompt": "0.2.14"
+  }
+}
