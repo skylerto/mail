@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "mail": "index.js"
+  },
   "author": "Skyler Layne <skylerclayne@gmail.com> (http://www.skylerlayne.me)",
   "license": "MIT",
   "dependencies": {
