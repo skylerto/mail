@@ -12,3 +12,8 @@ Because can and I always get confused when I try to fool around with the mail pr
 2. Add gmail user and pass in the config/config.json
 3. Change personal.json to config.json index.js
 4. npm install -g, run `mail` and you're off
+
+## LICENSE
+The MIT License (MIT)
+
+Copyright (c) 2015 Skyler Layne
